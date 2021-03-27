@@ -1,0 +1,31 @@
+{
+       "languageserver": {
+      "latex": {
+        "command": "/usr/local/Cellar/texlab",
+        "ignoredRootPaths": ["~"],
+        "filetypes": ["tex", "bib", "plaintex", "context"]
+      }
+    },
+    "clangd.path": "/Users/tiagooliva/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd",
+
+  "languageserver": {
+    "haskell": {
+      "command": "haskell-language-server-wrapper",
+      "args": [
+        "--lsp"
+      ],
+      "rootPatterns": [
+        ".stack.yaml",
+        ".hie-bios",
+        "BUILD.bazel",
+        "cabal.config",
+        "package.yaml"
+      ],
+      "filetypes": [
+        "hs",
+        "lhs",
+        "haskell"
+      ]
+    }
+  }
+}

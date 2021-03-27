@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/tiagooliva/.config/nvim/after/plugin'
+let g:netrw_dirhist_8='/Users/tiagooliva/.config/nvim/ftdetect'
+let g:netrw_dirhist_7='/Users/tiagooliva/.config/nvim/after/plugin'
+let g:netrw_dirhist_6='/Users/tiagooliva/.config/nvim/after/plugins'
+let g:netrw_dirhist_5='/Users/tiagooliva/.config/nvim/plugins'
+let g:netrw_dirhist_4='/Users/tiagooliva/.config/nvim/ftplugin'
+let g:netrw_dirhist_3='/Users/tiagooliva/.config/nvim/plugins'
+let g:netrw_dirhist_2='/Users/tiagooliva/.config/nvim/ftdetect'
+let g:netrw_dirhist_1='/Users/tiagooliva/research/SEA2SF/_chapters/dev_sensor_fusion'
+let g:netrw_dirhist_0='/Users/tiagooliva'
