@@ -1,7 +1,7 @@
 ""GENERAL
 set relativenumber     " Show line numbers
 set nu
-set scrolloff=8
+set scrolloff=5
 "set colorcolumn=+1,+2 " highlight columns after 'textwidth'
 "highlight Colorcolumn ctermbg=lightgrey guibg=lightgrey
 set linebreak       " Break lines at word (requires Wrap lines)

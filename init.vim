@@ -23,6 +23,7 @@ Plug 'nvim-telescope/telescope.nvim'
 
 Plug 'mhinz/vim-startify'
 Plug 'mhinz/vim-signify'
+Plug 'wakatime/vim-wakatime'
 
 
 "  I AM SO SORRY FOR DOING COLOR SCHEMES IN MY VIMRC, BUT I HAVE
